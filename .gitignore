@@ -1,0 +1,4 @@
+/build
+/hydra_tools/testing
+hydra.xcodeproj
+.vscode/
